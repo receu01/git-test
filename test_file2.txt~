@@ -1,4 +1,8 @@
-this second file
+<<<<<<< HEAD
+this second file: Updated by second branch
+=======
+this second file:Updated by Master checkout
+>>>>>>> master
 
 added content by checkout new feature branch 1
 

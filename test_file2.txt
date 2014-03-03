@@ -1,4 +1,4 @@
-this second file:Updated by Master checkout
+this second file: :Updated by Master checkout : Updated by second branch
 
 added content by checkout new feature branch 1
 
