@@ -1,5 +1,5 @@
-this is test git file.
-adding second line
+this is test git file.: Updated by second branch
+adding second line: Updated by second branch
 
 added content by checkout new feature branch 1
 added content by checkout new feature branch 1
